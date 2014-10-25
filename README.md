@@ -19,6 +19,7 @@ Build a scheme stored on some webspace.
 * Chrome DevTools
 * CodeMirror
 * Console2
+* ConEmu
 * DrRacket
 * Emacs
 * Escape Code Shell Script
@@ -68,6 +69,7 @@ Build a scheme stored on some webspace.
 * [oxplot](https://github.com/oxplot) - Mate Terminal
 * [esn89](https://github.com/esn89) - Zathura PDF Reader
 * [romainx](https://github.com/romainx) - MultiMarkdown Composer 2
+* [moonpyk](https://github.com/moonpyk) - ConEmu
 
 ## License
 Base16 Builder is released under the [MIT License](https://github.com/chriskempson/base16-builder/blob/master/LICENSE.md)
