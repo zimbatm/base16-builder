@@ -9,14 +9,14 @@
 // [Style syntax description](http://support.multimarkdown.com/kb/style-sheets/how-do-i-create-a-custom-style-sheet)
 // Author: [Romain X.](https://github.com/romainx)
 // Version: 1.1
-// Date: 2014-05-15
+// Date: 2014-11-02
 // ---
 
 {
     // Default settings
     
     // Base colors
-    foregroundColor = <%= @base["02"]["hex"] %>;
+    foregroundColor = <%= @base["01"]["hex"] %>;
     // Markup will be quite invisible
     markupForegroundColor = <%= @base["06"]["hex"] %>;
     backgroundColor = <%= @base["07"]["hex"] %>;
@@ -27,25 +27,30 @@
     selectionColor = <%= @base["05"]["hex"] %>;
 
     // Paragraph
-    lineLength = 80;
-	lineHeight = 1.5;
+    lineLength = 90;
+	lineHeight = 1;
     
     // Font
-    defaultFontSize = 13.5;
+    defaultFontSize = 12;
 	
     // Mono
     monoFontName = Monaco;
-	monoFontSize = 12.5;
+	monoFontSize = 12;
     
     default = {
         fontName = Menlo;
-        fontSize = 13.5;
+        fontSize = 12;
         kerning = 0.15;
     };
 
+    // Mode
+    focusMode = 0;
+    typewriterMode = 0;
+    autoZoomHorizontalPadding = 5;
+
     // Padding to use when Auto Zoom is off
-    horizontalPadding = 10;
-    verticalPadding = 10;
+    horizontalPadding = 5;
+    verticalPadding = 5;
 
     // CSS
     // Only the following properties are updated according to the scheme:
@@ -62,7 +67,7 @@
     
     // Links has reference color
     link =     {
-        foregroundColor = <%= @base["04"]["hex"] %>;
+        foregroundColor = <%= @base["03"]["hex"] %>;
     };
     
     // Formatting that is applied to "clickable" links
@@ -99,24 +104,23 @@
 		foregroundColor = <%= @base["0B"]["hex"] %>;
         mono = 1;
     };
-
-	codeBlock = {
+    codeBlock = {
 		foregroundColor = <%= @base["0B"]["hex"] %>;
 		mono = 1;
 	};
 
     // Metadata YAML for e.g.
 	metadata = {
-		foregroundColor = <%= @base["0F"]["hex"] %>;
+		foregroundColor = <%= @base["03"]["hex"] %>;
 	};
 
     // XML comments
     comment = {
-        foregroundColor = <%= @base["03"]["hex"] %>;
+        foregroundColor = <%= @base["04"]["hex"] %>;
     };
     
     // Blockquote
     blockquote = {
-        foregroundColor = <%= @base["09"]["hex"] %>;
+        foregroundColor = <%= @base["02"]["hex"] %>;
     };
 }
