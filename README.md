@@ -16,28 +16,33 @@ Build a scheme stored on some webspace.
 ## Templates
 * Atom
 * BBEdit (TextWrangler)
-* Chrome DevTools
+* Chrome DevTools (Web Inspector)
+* Chrome Secure Shell
 * CodeMirror
-* Console2
 * ConEmu
+* Console2
 * DrRacket
 * Emacs
-* Escape Code Shell Script
+* Escape Code Shell Script (shell)
 * Geany
 * Gedit
+* Gimp Palette
 * Gnome Terminal
 * Guake
 * highlight.js
-* HTML Preview
+* Highlighting Kate
+* HTML Preview (preview)
 * IDEA
-* iTerm 2
 * IPython Notebook
+* iTerm 2
 * Konsole
 * Mate Terminal
 * MinTTY
+* MultiMarkdown Composer 2 (mmdc2)
 * Mou
-* MultiMarkdown Composer 2
 * Notepad++
+* OS X Terminal (terminal-app)
+* Pantheon Terminal
 * prettify.js
 * Prism.js
 * PuTTY
@@ -45,16 +50,17 @@ Build a scheme stored on some webspace.
 * Qt Creator
 * Rainbow
 * Rouge
-* Terminal
 * Terminator
+* Termite
 * Textadept
 * TextMate (Sublime Text)
 * Vim
 * Visual Studio
-* Virtual Console
+* Virtual Console (vconsole)
 * Windows Command Prompt
 * Xcode 4
 * XFCE4 Terminal
+* Xresources
 * Zathura
 
 ## Contributors
