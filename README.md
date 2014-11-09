@@ -63,7 +63,7 @@ Build a scheme stored on some webspace.
 * Xresources
 * Zathura
 
-## Contributors
+## Maintainers
 * [chriskempson](https://github.com/chriskempson) - HTML Preview, Vim, TextMate, iTerm 2, XFCE4 Terminal, Mou, Escape Code Shell Script, Gnome Terminal, BBEdit
 * [jayferd](https://github.com/jayferd) - Rouge
 * [neil477](https://github.com/neil477) - Emacs
