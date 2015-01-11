@@ -264,7 +264,7 @@ if ARGV[0] != nil then
         puts help_message
       when "-s", "--scheme"
         tmp_scheme = ARGV[i+1]
-      when "-t", "--texteditor"
+      when "-t", "--template"
         tmp_template = ARGV[i+1]
     end
   end
