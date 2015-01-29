@@ -7,7 +7,7 @@ Requires Ruby 1.9 or greater.
     > ./base16
 Build all schemes
 
-    > ./base16 default.yml
+    > ./base16 -s schemes/default.yml
 Build only the "default" theme
 
     > ./base16 https://awesome-schemes.com/my-scheme.yml
