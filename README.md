@@ -7,7 +7,7 @@ Requires Ruby 1.9 or greater.
     > ./base16
 Build all schemes
 
-    > ./base16 default.yml
+    > ./base16 -s schemes/default.yml
 Build only the "default" theme
 
     > ./base16 https://awesome-schemes.com/my-scheme.yml
@@ -16,28 +16,33 @@ Build a scheme stored on some webspace.
 ## Templates
 * Atom
 * BBEdit (TextWrangler)
-* Chrome DevTools
+* Chrome DevTools (Web Inspector)
+* Chrome Secure Shell
 * CodeMirror
-* Console2
 * ConEmu
+* Console2
 * DrRacket
 * Emacs
-* Escape Code Shell Script
+* Escape Code Shell Script (shell)
 * Geany
 * Gedit
+* Gimp Palette
 * Gnome Terminal
 * Guake
 * highlight.js
-* HTML Preview
+* Highlighting Kate
+* HTML Preview (preview)
 * IDEA
-* iTerm 2
 * IPython Notebook
+* iTerm 2
 * Konsole
 * Mate Terminal
 * MinTTY
+* MultiMarkdown Composer 2 (mmdc2)
 * Mou
-* MultiMarkdown Composer 2
 * Notepad++
+* OS X Terminal (terminal-app)
+* Pantheon Terminal
 * prettify.js
 * Prism.js
 * PuTTY
@@ -45,19 +50,20 @@ Build a scheme stored on some webspace.
 * Qt Creator
 * Rainbow
 * Rouge
-* Terminal
 * Terminator
+* Termite
 * Textadept
 * TextMate (Sublime Text)
 * Vim
 * Visual Studio
-* Virtual Console
+* Virtual Console (vconsole)
 * Windows Command Prompt
 * Xcode 4
 * XFCE4 Terminal
+* Xresources
 * Zathura
 
-## Contributors
+## Maintainers
 * [chriskempson](https://github.com/chriskempson) - HTML Preview, Vim, TextMate, iTerm 2, XFCE4 Terminal, Mou, Escape Code Shell Script, Gnome Terminal, BBEdit
 * [jayferd](https://github.com/jayferd) - Rouge
 * [neil477](https://github.com/neil477) - Emacs
@@ -70,6 +76,7 @@ Build a scheme stored on some webspace.
 * [esn89](https://github.com/esn89) - Zathura PDF Reader
 * [romainx](https://github.com/romainx) - MultiMarkdown Composer 2
 * [moonpyk](https://github.com/moonpyk) - ConEmu
+* [jprjr](https://github.com/jprjr) - ConnectBot, vx-connectbot
 
 ## License
 Base16 Builder is released under the [MIT License](https://github.com/chriskempson/base16-builder/blob/master/LICENSE.md)

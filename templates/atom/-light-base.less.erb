@@ -1,21 +1,21 @@
 // Atom template by Jan T. Sott (https://github.com/idleberg/)
 // Base16 scheme and Base16 Builder by Chris Kempson (https://github.com/chriskempson)
 
-@import "<%= @scheme %>-light-syntax-variables";
+@import "base16-<%= @slug %>-light-syntax-variables.less";
 
 .editor-colors {
-  background-color: @syntax-background-color;
   color: @syntax-text-color;
+  background-color: @syntax-background-color;
 }
 
 .editor .gutter {
-  background-color: @syntax-gutter-background-color;
   color: @syntax-gutter-text-color;
+  background-color: @syntax-gutter-background-color;
 }
 
 .editor .gutter .line-number.cursor-line {
-  background-color: @syntax-gutter-background-color-selected;
   color: @syntax-gutter-text-color-selected;
+  background-color: @syntax-gutter-background-color-selected;
 }
 
 .editor .gutter .line-number.cursor-line-no-selection {
