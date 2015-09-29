@@ -77,6 +77,7 @@ Build a scheme stored on some webspace.
 * [romainx](https://github.com/romainx) - MultiMarkdown Composer 2
 * [moonpyk](https://github.com/moonpyk) - ConEmu
 * [jprjr](https://github.com/jprjr) - ConnectBot, vx-connectbot
+* [atelierbram](https://github.com/atelierbram) - Prism
 
 ## License
 Base16 Builder is released under the [MIT License](https://github.com/chriskempson/base16-builder/blob/master/LICENSE.md)
