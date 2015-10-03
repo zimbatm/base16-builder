@@ -50,6 +50,7 @@ Build a scheme stored on some webspace.
 * Qt Creator
 * Rainbow
 * Rouge
+* Sequel Pro
 * Terminator
 * Termite
 * Textadept
@@ -78,6 +79,7 @@ Build a scheme stored on some webspace.
 * [moonpyk](https://github.com/moonpyk) - ConEmu
 * [jprjr](https://github.com/jprjr) - ConnectBot, vx-connectbot
 * [atelierbram](https://github.com/atelierbram) - Prism
+* [bbrks](https://github.com/bbrks) - Sequel Pro
 
 ## License
 Base16 Builder is released under the [MIT License](https://github.com/chriskempson/base16-builder/blob/master/LICENSE.md)
