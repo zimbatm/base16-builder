@@ -14,6 +14,8 @@ I made a mistake, this repository should only have containted the builder code, 
 ## How can I help?
 If you have created a scheme or a template please become the owner of your work :smile: For scheme authors this means creating a repository for each of your schemes (see: https://github.com/chriskempson/base16-default-scheme as an example). For template authors this means creating a repository containing your template file converted to the new mustache format (see: https://github.com/chriskempson/base16-textmate as an example).
 
+If you're skilled in any language and fancy maintaining a builder, see the spec at https://github.com/chriskempson/base16 and take a look at an example PHP implementation https://github.com/chriskempson/base16-builder-php.
+
 ## How can I build this new stuff?
 Please see https://github.com/chriskempson/base16-builder-php/ for a PHP based implementation of a base16 builder.
 
