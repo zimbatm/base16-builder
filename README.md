@@ -1,10 +1,12 @@
 # Base16 Update
 This repository is deprecated as Base16 is changing the way it is built and maintained.
 
+- More distributed, no longer has "one repository to rule them all!".
+- Better structured for community involvement.  
 - No longer tied to Ruby and has no official builder only implementations of builders that follow the (currently draft) spec found at at http://chriskempson.com/projects/base16.
 - Separated scheme files that now live in their creators repository.
 - Separated template files that now live in their creators repository.
-- Git used to pull in schemes/templates and keep them up-to-date
+- Git used to pull in schemes/templates and keep them up-to-date.
 - https://github.com/chriskempson/base16 to be repurposed to house discussion about base16 design away from code and syntax descriptions.
 - Actually maintained!
 
