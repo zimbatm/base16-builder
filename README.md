@@ -1,3 +1,14 @@
+# Deprecated
+Base16 is changing the way it is built and maintained.
+
+- No longer tied to Ruby and has no official language only implementations of builders that follow the spec found at at http://chriskempson.com/projects/base16
+- Separated scheme files that now live in their maintainers repo
+- Separated template files that now live in their maintainers repo
+
+Please see for a PHP based implementation of a base16 builder: https://github.com/chriskempson/base16-builder-php/
+
+<hr />
+
 # Base16 Builder
 Easily build color variations of Base16 with YAML scheme definitions and ERB templates.
 See the [Base16](https://github.com/chriskempson/base16) repository for more information.
