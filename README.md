@@ -1,11 +1,24 @@
-# Deprecated
+# This Repository is Deprecated
 Base16 is changing the way it is built and maintained.
 
-- No longer tied to Ruby and has no official language only implementations of builders that follow the spec found at at http://chriskempson.com/projects/base16
-- Separated scheme files that now live in their maintainers repo
-- Separated template files that now live in their maintainers repo
+- No longer tied to Ruby and has no official builder only implementations of builders that follow the (currently draft) spec found at at http://chriskempson.com/projects/base16.
+- Separated scheme files that now live in their creators repository.
+- Separated template files that now live in their creators repository.
+- Git used to pull in schemes/templates and keep them up-to-date
+- https://github.com/chriskempson/base16 to be repurposed to house discussion about base16 design away from code and syntax descriptions.
+- Actually maintained!
 
-Please see for a PHP based implementation of a base16 builder: https://github.com/chriskempson/base16-builder-php/
+## Why?
+I made a mistake, this repository should only have containted the builder code, not the schemes nor the templates. Doing makes it very hard for others to implement a base16 builder in other languages. Furthermore, scheme and template creators should keep control of their work with their repositories becoming the official repositories issues and pull requests related to their work.
+
+## How can I help?
+If you have created a scheme or a template please become the owner of your work :smile: For scheme authors this means creating a repository for each of your schemes (see: https://github.com/chriskempson/base16-default-scheme as an example). For template authors this means creating a repository containing your template file converted to the new mustache format (see: https://github.com/chriskempson/base16-textmate as an example).
+
+## How can I build this new stuff?
+Please see https://github.com/chriskempson/base16-builder-php/ for a PHP based implementation of a base16 builder.
+
+## Questions?
+Any questions can be raised as issues on https://github.com/chriskempson/base16
 
 <hr />
 
