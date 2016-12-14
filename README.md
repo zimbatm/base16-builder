@@ -20,7 +20,7 @@ If you have created a scheme or a template please become the owner of your work 
 If you're skilled in any language and fancy maintaining a builder, see the spec at https://github.com/chriskempson/base16 and take a look at an example PHP implementation https://github.com/chriskempson/base16-builder-php.
 
 ## How can I build this new stuff?
-Please see https://github.com/chriskempson/base16-builder-php/ for a PHP based implementation of a base16 builder.
+Please see https://github.com/chriskempson/base16#builder-repositories for a list of builders in various languages.
 
 ## Questions?
 Any questions can be raised as issues on https://github.com/chriskempson/base16
